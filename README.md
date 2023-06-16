@@ -1,4 +1,4 @@
-# JavaScript-project
+# JavaScript-Leaflet_project
 
 Background
 
